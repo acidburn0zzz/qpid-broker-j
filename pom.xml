@@ -148,7 +148,7 @@
     <hamcrest-version>1.3</hamcrest-version>
     <maven-core-version>3.5.0</maven-core-version>
     <maven-resolver-version>1.0.3</maven-resolver-version>
-    <httpclient-version>4.5.3</httpclient-version>
+    <httpclient-version>4.5.13</httpclient-version>
     <qpid-jms-client-version>0.26.0</qpid-jms-client-version>
     <qpid-jms-client-amqp-0-x-version>6.1.4</qpid-jms-client-amqp-0-x-version>
 
